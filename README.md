@@ -1,7 +1,7 @@
 # Horiseon Challenge
 ## Description
 #### Horiseon Home Page
-This assignment was to refactor a website to accesibility standards and for search engine optimization. 
+Horiseon is a marketing agency specializing in website accesibility and search engine optimization. 
 
 ## Screenshot
 ![Screenshot](./assets/images/Screenshot.png)
